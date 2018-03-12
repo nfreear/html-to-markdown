@@ -1,0 +1,13 @@
+{
+  "name": "nfreear/html-to-md",
+  "description": "A minimal HTML to Markdown web-service, with HTTP Basic authentication.",
+  "license": "MIT",
+  "time": "2018-03-12",
+  "authors": [ { "name": "Nick Freear {@nfreear}" } ],
+  "support": { "source": "https://github.com/nfreear/html-to-markdown" },
+  "require": {
+    "duzun/hquery": "^1.7.3",
+    "intervention/httpauth": "^2.0.3",
+    "league/html-to-markdown": "^4.6.2"
+  }
+}
